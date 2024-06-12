@@ -1,5 +1,6 @@
 {
-  "laptops": [
+  "users": [],
+  "products": [
     {
       "itemId": 1,
       "name": "Dell XPS 13 Laptop",
@@ -14,9 +15,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.7,
       "numReviews": 300,
-      "thumbnailImage": "https://example.com/images/dell-xps-13.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/c1f5860938d7dc087df2dddc1dccf07aa63f1d02_1694265753.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/dell-xps-13-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "Dell",
       "color": "Platinum Silver",
       "dimensions": {
@@ -44,9 +46,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.8,
       "numReviews": 400,
-      "thumbnailImage": "https://example.com/images/macbook-air-m1.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/b2c0eb53f0eeacdefb8771155bf5e4887222a654_1672051046.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/macbook-air-m1-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "Apple",
       "color": "Space Gray",
       "dimensions": {
@@ -55,7 +58,7 @@
         "depth": "8.36 inches"
       },
       "discount": {
-        "percent": 0,
+        "percent": 5,
         "startDate": "",
         "endDate": ""
       }
@@ -74,9 +77,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.6,
       "numReviews": 250,
-      "thumbnailImage": "https://example.com/images/hp-spectre-x360.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/ded23168382e33d20ca51a2c22c98e7aafd50cc2_1669703772.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/hp-spectre-x360-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "HP",
       "color": "Nightfall Black",
       "dimensions": {
@@ -104,9 +108,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.9,
       "numReviews": 350,
-      "thumbnailImage": "https://example.com/images/lenovo-thinkpad-x1-carbon.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/4becab38056115807a11afd5ba9e6d2cf07a78aa_1673766215.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/lenovo-thinkpad-x1-carbon-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "Lenovo",
       "color": "Black",
       "dimensions": {
@@ -134,9 +139,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.7,
       "numReviews": 300,
-      "thumbnailImage": "https://example.com/images/asus-rog-zephyrus-g14.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/4a3f883d050f641a4a511c7999f8bbdcd70cb860_1672070245.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/asus-rog-zephyrus-g14-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "ASUS",
       "color": "Eclipse Gray",
       "dimensions": {
@@ -164,9 +170,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.5,
       "numReviews": 275,
-      "thumbnailImage": "https://example.com/images/microsoft-surface-laptop-4.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/d9eec4117dcd488b700744539c20f4aed9a392ef_1673869947.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/microsoft-surface-laptop-4-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "Microsoft",
       "color": "Platinum",
       "dimensions": {
@@ -194,9 +201,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.4,
       "numReviews": 220,
-      "thumbnailImage": "https://example.com/images/acer-swift-3.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/71602a20bc4d5c8ff8e43c8cabdefae0bdd66abe_1673951469.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/acer-swift-3-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "Acer",
       "color": "Silver",
       "dimensions": {
@@ -224,9 +232,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.8,
       "numReviews": 180,
-      "thumbnailImage": "https://example.com/images/razer-blade-15.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/245c77df6f7aac5fb1e786121699046af7eb100b_1672074462.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/razer-blade-15-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "Razer",
       "color": "Black",
       "dimensions": {
@@ -254,9 +263,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.7,
       "numReviews": 190,
-      "thumbnailImage": "https://example.com/images/samsung-galaxy-book-pro-360.jpg",
+      "thumbnailImage": "https://www.digikala.com/mag/wp-content/uploads/2021/04/gsmarena_005-6-822x512.jpg",
       "largeImage": "https://example.com/images/samsung-galaxy-book-pro-360-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "Samsung",
       "color": "Mystic Navy",
       "dimensions": {
@@ -284,9 +294,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.6,
       "numReviews": 210,
-      "thumbnailImage": "https://example.com/images/hp-envy-x360-15.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/e8488b1afa8cae97d270ebf4f104196ea6e4184b_1672039836.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/hp-envy-x360-15-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "HP",
       "color": "Silver",
       "dimensions": {
@@ -314,9 +325,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.6,
       "numReviews": 320,
-      "thumbnailImage": "https://example.com/images/acer-predator-helios-300.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/1bc3fcf25731952555c5832af569b1b7d980761f_1671465016.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/acer-predator-helios-300-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "Acer",
       "color": "Black",
       "dimensions": {
@@ -344,9 +356,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.5,
       "numReviews": 280,
-      "thumbnailImage": "https://example.com/images/asus-zenbook-14.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/111917125.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90g",
       "largeImage": "https://example.com/images/asus-zenbook-14-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "ASUS",
       "color": "Royal Blue",
       "dimensions": {
@@ -374,9 +387,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.4,
       "numReviews": 210,
-      "thumbnailImage": "https://example.com/images/dell-inspiron-15.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/1572649.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/dell-inspiron-15-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "Dell",
       "color": "Silver",
       "dimensions": {
@@ -404,9 +418,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.3,
       "numReviews": 150,
-      "thumbnailImage": "https://example.com/images/lenovo-ideapad-3.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/96b2f716687c60caea3dbb4caf01f6c2f76e8597_1671970176.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/lenovo-ideapad-3-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "Lenovo",
       "color": "Abyss Blue",
       "dimensions": {
@@ -434,9 +449,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.2,
       "numReviews": 100,
-      "thumbnailImage": "https://example.com/images/hp-chromebook-14.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/5333f205c5bc58b26861d99599cbae500b9a0d01_1673867849.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/hp-chromebook-14-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "HP",
       "color": "Snow White",
       "dimensions": {
@@ -452,7 +468,7 @@
     },
     {
       "itemId": 16,
-      "name": "Apple MacBook Pro 16\"",
+      "name": "Apple MacBook Pro 16",
       "upc": "194252226757",
       "shortDescription": "High-end laptop with Apple M1 Pro chip and 16GB RAM.",
       "longDescription": "The Apple MacBook Pro 16\" is a high-end laptop, featuring the powerful Apple M1 Pro chip, 16GB of RAM, and a 512GB SSD.",
@@ -464,9 +480,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.9,
       "numReviews": 450,
-      "thumbnailImage": "https://example.com/images/macbook-pro-16.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/89171768e960856ac5940e4d8bc750758cd10eb0_1683365712.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/macbook-pro-16-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "Apple",
       "color": "Space Gray",
       "dimensions": {
@@ -494,9 +511,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.8,
       "numReviews": 190,
-      "thumbnailImage": "https://example.com/images/lg-gram-17.jpg",
+      "thumbnailImage": "https://www.digikala.com/mag/wp-content/uploads/2022/03/Untitled-1-28.jpg",
       "largeImage": "https://example.com/images/lg-gram-17-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "LG",
       "color": "Dark Silver",
       "dimensions": {
@@ -524,9 +542,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.7,
       "numReviews": 140,
-      "thumbnailImage": "https://example.com/images/huawei-matebook-x-pro.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/ec9e5adb252d8ee49bbb44937066d57e7c30dc4e_1672070589.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/huawei-matebook-x-pro-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "Huawei",
       "color": "Space Gray",
       "dimensions": {
@@ -554,9 +573,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.5,
       "numReviews": 220,
-      "thumbnailImage": "https://example.com/images/msi-stealth-15m.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/e76256b6e5d7e6c52963b66a112812e4b8a49d2a_1671299399.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/msi-stealth-15m-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "MSI",
       "color": "Carbon Gray",
       "dimensions": {
@@ -584,9 +604,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.6,
       "numReviews": 160,
-      "thumbnailImage": "https://example.com/images/google-pixelbook-go.jpg",
+      "thumbnailImage": "https://www.digikala.com/mag/wp-content/uploads/2019/10/%DB%B2.jpg",
       "largeImage": "https://example.com/images/google-pixelbook-go-large.jpg",
       "categoryPath": "Electronics > Computers > Laptops",
+      "categoryName": "Laptop",
       "brandName": "Google",
       "color": "Just Black",
       "dimensions": {
@@ -599,9 +620,8 @@
         "startDate": "2024-06-01",
         "endDate": "2024-06-15"
       }
-    }
-  ],
-  "cellphones": [
+    },
+
     {
       "itemId": 21,
       "name": "Samsung Galaxy S21 Ultra",
@@ -616,9 +636,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.8,
       "numReviews": 450,
-      "thumbnailImage": "https://example.com/images/galaxy-s21-ultra.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/635d20960defa4123ad998e123660329515d101c_1656428909.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/galaxy-s21-ultra-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "Samsung",
       "color": "Phantom Black",
       "dimensions": {
@@ -646,9 +667,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.9,
       "numReviews": 520,
-      "thumbnailImage": "https://example.com/images/iphone-13-pro-max.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/fa5961b7d2a4efb180d686f6f69dd45381a4d3dd_1649056488.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/iphone-13-pro-max-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "Apple",
       "color": "Graphite",
       "dimensions": {
@@ -657,7 +679,7 @@
         "depth": "0.3 inches"
       },
       "discount": {
-        "percent": 5,
+        "percent": 25,
         "startDate": "2024-06-01",
         "endDate": "2024-06-15"
       }
@@ -676,9 +698,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.7,
       "numReviews": 300,
-      "thumbnailImage": "https://example.com/images/pixel-6-pro.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/e1005b036399435b20c6dc00fc4be8ad2326ae7d_1694435809.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/pixel-6-pro-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "Google",
       "color": "Stormy Black",
       "dimensions": {
@@ -706,9 +729,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.6,
       "numReviews": 280,
-      "thumbnailImage": "https://example.com/images/oneplus-9-pro.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/f4369d33b85bab0455e7102fc9dc549cf23be976_1640611872.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/oneplus-9-pro-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "OnePlus",
       "color": "Pine Green",
       "dimensions": {
@@ -736,9 +760,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.7,
       "numReviews": 240,
-      "thumbnailImage": "https://example.com/images/mi-11-ultra.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/4a54e534d46dedeefd055ea516ff44416dd5ca6a_1656405590.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/mi-11-ultra-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "Xiaomi",
       "color": "Ceramic White",
       "dimensions": {
@@ -766,9 +791,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.6,
       "numReviews": 180,
-      "thumbnailImage": "https://example.com/images/xperia-1-iii.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/4a54e534d46dedeefd055ea516ff44416dd5ca6a_1656405590.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/xperia-1-iii-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "Sony",
       "color": "Frosted Black",
       "dimensions": {
@@ -796,9 +822,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.7,
       "numReviews": 210,
-      "thumbnailImage": "https://example.com/images/find-x3-pro.jpg",
+      "thumbnailImage": "https://image.torob.com/base/images/EF/yP/EFyPu8GUQMba-nje.jpg",
       "largeImage": "https://example.com/images/find-x3-pro-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "Oppo",
       "color": "Gloss Black",
       "dimensions": {
@@ -826,9 +853,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.5,
       "numReviews": 160,
-      "thumbnailImage": "https://example.com/images/edge-plus.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/cc974c182c5b6509f22e7dae18112cd140bb981f_1666094381.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/edge-plus-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "Motorola",
       "color": "Thunder Grey",
       "dimensions": {
@@ -856,9 +884,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.8,
       "numReviews": 230,
-      "thumbnailImage": "https://example.com/images/rog-phone-5.jpg",
+      "thumbnailImage": "https://image.torob.com/base/images/1y/SS/1ySSX8G9SmFztgIg.png",
       "largeImage": "https://example.com/images/rog-phone-5-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "Asus",
       "color": "Phantom Black",
       "dimensions": {
@@ -886,9 +915,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.4,
       "numReviews": 190,
-      "thumbnailImage": "https://example.com/images/nokia-8-3-5g.jpg",
+      "thumbnailImage": "https://api2.zoomit.ir/media/2020-3-6f50d2a8-0215-4d9a-a9ee-643f1e7b7f69-638c6181e552d4271b27a1d0",
       "largeImage": "https://example.com/images/nokia-8-3-5g-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "Nokia",
       "color": "Polar Night",
       "dimensions": {
@@ -916,9 +946,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.7,
       "numReviews": 500,
-      "thumbnailImage": "https://example.com/images/galaxy-note-20-ultra.jpg",
+      "thumbnailImage": "https://api2.zoomit.ir/media/2021-4-samsung-galaxy-note-20-ultra-bronze-652d0351eb21a6b54f50445c",
       "largeImage": "https://example.com/images/galaxy-note-20-ultra-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "Samsung",
       "color": "Mystic Bronze",
       "dimensions": {
@@ -946,9 +977,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.8,
       "numReviews": 600,
-      "thumbnailImage": "https://example.com/images/iphone-12-pro.jpg",
+      "thumbnailImage": "https://api2.zoomit.ir/media/2022-2-apple-iphone-12-pro-652d21c2eb21a6b54f5157d6",
       "largeImage": "https://example.com/images/iphone-12-pro-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "Apple",
       "color": "Pacific Blue",
       "dimensions": {
@@ -976,9 +1008,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.7,
       "numReviews": 400,
-      "thumbnailImage": "https://example.com/images/pixel-5.jpg",
+      "thumbnailImage": "https://api2.zoomit.ir/media/2020-10-google-pixel-5-5g-green-638c64600b3d268f7f47a5ac",
       "largeImage": "https://example.com/images/pixel-5-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "Google",
       "color": "Just Black",
       "dimensions": {
@@ -1006,9 +1039,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.6,
       "numReviews": 350,
-      "thumbnailImage": "https://example.com/images/oneplus-8t.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/9c51bb40c7a78ab9b0f8ccddb593a6524f4d8c06_1646569719.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/oneplus-8t-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "OnePlus",
       "color": "Aquamarine Green",
       "dimensions": {
@@ -1036,9 +1070,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.7,
       "numReviews": 300,
-      "thumbnailImage": "https://example.com/images/mi-10t-pro.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/100828134fc322d2e5519da5c3fb338f09c78d25_1609159018.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/mi-10t-pro-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "Xiaomi",
       "color": "Cosmic Black",
       "dimensions": {
@@ -1066,9 +1101,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.6,
       "numReviews": 220,
-      "thumbnailImage": "https://example.com/images/xperia-5-ii.jpg",
+      "thumbnailImage": "https://api2.zoomit.ir/media/2020-9-sony-xperia-5-ii-front-back-638c643fa77666af5aeefa48",
       "largeImage": "https://example.com/images/xperia-5-ii-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "Sony",
       "color": "Black",
       "dimensions": {
@@ -1096,9 +1132,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.6,
       "numReviews": 250,
-      "thumbnailImage": "https://example.com/images/reno5-pro-plus.jpg",
+      "thumbnailImage": "https://cdn.dxomark.com/wp-content/uploads/medias/post-83756/Oppo-Reno5-Pro-Plus-featured-image-packshot-review.jpg",
       "largeImage": "https://example.com/images/reno5-pro-plus-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "Oppo",
       "color": "Starry Night",
       "dimensions": {
@@ -1126,9 +1163,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.6,
       "numReviews": 230,
-      "thumbnailImage": "https://example.com/images/realme-gt.jpg",
+      "thumbnailImage": "https://api2.zoomit.ir/media/2021-3-oppo-realme-back-front-view-652cfcbf8716201626cf674d",
       "largeImage": "https://example.com/images/realme-gt-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "Realme",
       "color": "Racing Yellow",
       "dimensions": {
@@ -1156,9 +1194,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.7,
       "numReviews": 280,
-      "thumbnailImage": "https://example.com/images/vivo-x60-pro.jpg",
+      "thumbnailImage": "https://api2.zoomit.ir/media/2021-1-vivo-x60-pro-plus-5g-front-back-view-652cfb4eeb21a6b54f4ee33d",
       "largeImage": "https://example.com/images/vivo-x60-pro-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "Vivo",
       "color": "Midnight Black",
       "dimensions": {
@@ -1186,9 +1225,10 @@
       "sellerId": "walmart123",
       "customerRating": 4.7,
       "numReviews": 300,
-      "thumbnailImage": "https://example.com/images/mate-40-pro.jpg",
+      "thumbnailImage": "https://googlekala.com/wp-content/uploads/2020/10/Screenshot_2-2.jpg",
       "largeImage": "https://example.com/images/mate-40-pro-large.jpg",
       "categoryPath": "Electronics > Cell Phones",
+      "categoryName": "Smart Phone",
       "brandName": "Huawei",
       "color": "Mystic Silver",
       "dimensions": {
@@ -1201,11 +1241,10 @@
         "startDate": "2024-06-01",
         "endDate": "2024-06-15"
       }
-    }
-  ],
-  "accessories": [
+    },
+
     {
-      "itemId": 1,
+      "itemId": 41,
       "name": "Logitech MX Master 3 Wireless Mouse",
       "upc": "097855151355",
       "shortDescription": "High-performance wireless mouse with customizable buttons and precision scroll wheel.",
@@ -1218,9 +1257,10 @@
       "sellerId": "bestbuy123",
       "customerRating": 4.9,
       "numReviews": 1200,
-      "thumbnailImage": "https://example.com/images/logitech-mx-master-3.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/d3459a79a7d93f76c95e8bf7f89cc5641a0b2daf_1659426463.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/logitech-mx-master-3-large.jpg",
       "categoryPath": "Electronics > Computer Accessories",
+      "categoryName": "Accessories",
       "brandName": "Logitech",
       "dimensions": {
         "width": "5 inches",
@@ -1234,7 +1274,7 @@
       }
     },
     {
-      "itemId": 2,
+      "itemId": 42,
       "name": "Apple AirPods Pro",
       "upc": "190199246850",
       "shortDescription": "Premium wireless earbuds with active noise cancellation and customizable fit.",
@@ -1247,9 +1287,10 @@
       "sellerId": "applestore123",
       "customerRating": 4.7,
       "numReviews": 1800,
-      "thumbnailImage": "https://example.com/images/apple-airpods-pro.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/117723317.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/apple-airpods-pro-large.jpg",
       "categoryPath": "Electronics > Audio Accessories",
+      "categoryName": "Accessories",
       "brandName": "Apple",
       "dimensions": {
         "width": "0.9 inches",
@@ -1263,7 +1304,7 @@
       }
     },
     {
-      "itemId": 3,
+      "itemId": 43,
       "name": "Samsung T5 Portable SSD 1TB",
       "upc": "887276231874",
       "shortDescription": "Portable SSD with fast transfer speeds and compact design.",
@@ -1279,6 +1320,7 @@
       "thumbnailImage": "https://example.com/images/samsung-t5-ssd.jpg",
       "largeImage": "https://example.com/images/samsung-t5-ssd-large.jpg",
       "categoryPath": "Electronics > Storage Devices",
+      "categoryName": "Accessories",
       "brandName": "Samsung",
       "dimensions": {
         "width": "2.9 inches",
@@ -1292,7 +1334,7 @@
       }
     },
     {
-      "itemId": 4,
+      "itemId": 44,
       "name": "Bose QuietComfort 35 II Wireless Headphones",
       "upc": "017",
       "shortDescription": "Wireless headphones with active noise cancellation and comfortable design.",
@@ -1305,9 +1347,10 @@
       "sellerId": "bose123",
       "customerRating": 4.6,
       "numReviews": 2000,
-      "thumbnailImage": "https://example.com/images/bose-qc-35-ii.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/2190329.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/bose-qc-35-ii-large.jpg",
       "categoryPath": "Electronics > Audio Accessories",
+      "categoryName": "Accessories",
       "brandName": "Bose",
       "dimensions": {
         "width": "6.7 inches",
@@ -1321,7 +1364,7 @@
       }
     },
     {
-      "itemId": 5,
+      "itemId": 45,
       "name": "Razer BlackWidow Elite Mechanical Gaming Keyboard",
       "upc": "814855025041",
       "shortDescription": "Mechanical gaming keyboard with customizable RGB lighting and programmable keys.",
@@ -1334,9 +1377,10 @@
       "sellerId": "razer123",
       "customerRating": 4.7,
       "numReviews": 1800,
-      "thumbnailImage": "https://example.com/images/razer-blackwidow-elite.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/6d468ab14c70491e8fdabcf3e3015a987785fa4c_1701131175.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/razer-blackwidow-elite-large.jpg",
       "categoryPath": "Electronics > Computer Accessories",
+      "categoryName": "Accessories",
       "brandName": "Razer",
       "dimensions": {
         "width": "17.6 inches",
@@ -1350,7 +1394,7 @@
       }
     },
     {
-      "itemId": 6,
+      "itemId": 46,
       "name": "DJI Mavic Air 2 Drone",
       "upc": "190021009852",
       "shortDescription": "Foldable drone with 4K camera and intelligent shooting modes.",
@@ -1363,9 +1407,10 @@
       "sellerId": "djistore123",
       "customerRating": 4.9,
       "numReviews": 2200,
-      "thumbnailImage": "https://example.com/images/dji-mavic-air-2.jpg",
+      "thumbnailImage": "https://www.digikala.com/mag/wp-content/uploads/2020/04/Mavic-Air-2-1.jpg",
       "largeImage": "https://example.com/images/dji-mavic-air-2-large.jpg",
       "categoryPath": "Electronics > Drones",
+      "categoryName": "Accessories",
       "brandName": "DJI",
       "dimensions": {
         "width": "9.96 inches",
@@ -1379,7 +1424,7 @@
       }
     },
     {
-      "itemId": 7,
+      "itemId": 47,
       "name": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones",
       "upc": "027242918347",
       "shortDescription": "Premium wireless headphones with industry-leading noise cancellation.",
@@ -1392,9 +1437,10 @@
       "sellerId": "sony123",
       "customerRating": 4.8,
       "numReviews": 2500,
-      "thumbnailImage": "https://example.com/images/sony-wh-1000xm4.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/be3485365d8f0e98431bb6748f2e3443a5de301d_1602489345.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/sony-wh-1000xm4-large.jpg",
       "categoryPath": "Electronics > Audio Accessories",
+      "categoryName": "Accessories",
       "brandName": "Sony",
       "dimensions": {
         "width": "7.3 inches",
@@ -1408,7 +1454,7 @@
       }
     },
     {
-      "itemId": 8,
+      "itemId": 48,
       "name": "Logitech C920 HD Pro Webcam",
       "upc": "097855065724",
       "shortDescription": "High-definition webcam with 1080p video and stereo audio.",
@@ -1421,9 +1467,10 @@
       "sellerId": "bestbuy123",
       "customerRating": 4.6,
       "numReviews": 1600,
-      "thumbnailImage": "https://example.com/images/logitech-c920-hd-pro.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/114353063.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/logitech-c920-hd-pro-large.jpg",
       "categoryPath": "Electronics > Computer Accessories",
+      "categoryName": "Accessories",
       "brandName": "Logitech",
       "dimensions": {
         "width": "3.7 inches",
@@ -1437,7 +1484,7 @@
       }
     },
     {
-      "itemId": 9,
+      "itemId": 49,
       "name": "Samsung 49-Inch Odyssey G9 Gaming Monitor",
       "upc": "887276402524",
       "shortDescription": "Ultra-wide gaming monitor with 240Hz refresh rate and QLED technology.",
@@ -1450,9 +1497,10 @@
       "sellerId": "samsung123",
       "customerRating": 4.8,
       "numReviews": 3000,
-      "thumbnailImage": "https://example.com/images/samsung-odyssey-g9.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/507190ffeee3194762617441880b11ccce78a651_1636132639.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/samsung-odyssey-g9-large.jpg",
       "categoryPath": "Electronics > Monitors",
+      "categoryName": "Accessories",
       "brandName": "Samsung",
       "dimensions": {
         "width": "45.18 inches",
@@ -1466,7 +1514,7 @@
       }
     },
     {
-      "itemId": 10,
+      "itemId": 50,
       "name": "Logitech G Pro X Wireless Gaming Headset",
       "upc": "097855152345",
       "shortDescription": "Wireless gaming headset with pro-grade Blue VO!CE mic technology.",
@@ -1479,7 +1527,7 @@
       "sellerId": "logitech123",
       "customerRating": 4.7,
       "numReviews": 2500,
-      "thumbnailImage": "https://example.com/images/logitech-g-pro-x.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/eb4798fa879797e5b79c89c47719a1219b1f3070_1639156337.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/logitech-g-pro-x-large.jpg",
       "categoryPath": "Electronics > Audio Accessories",
       "brandName": "Logitech",
@@ -1495,7 +1543,7 @@
       }
     },
     {
-      "itemId": 11,
+      "itemId": 51,
       "name": "Google Nest Hub Max Smart Display",
       "upc": "193575001506",
       "shortDescription": "Smart display with built-in Google Assistant and 10-inch HD screen.",
@@ -1508,9 +1556,10 @@
       "sellerId": "googlestore123",
       "customerRating": 4.8,
       "numReviews": 3500,
-      "thumbnailImage": "https://example.com/images/google-nest-hub-max.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/3e4adcfc77e8ad20443e0bb505e53965a854ad32_1643137706.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/google-nest-hub-max-large.jpg",
       "categoryPath": "Electronics > Smart Home",
+      "categoryName": "Accessories",
       "brandName": "Google",
       "dimensions": {
         "width": "9.85 inches",
@@ -1524,7 +1573,7 @@
       }
     },
     {
-      "itemId": 12,
+      "itemId": 52,
       "name": "GoPro HERO9 Black Action Camera",
       "upc": "818279026208",
       "shortDescription": "Ultra-high-definition action camera with 5K video and 20MP photos.",
@@ -1537,9 +1586,10 @@
       "sellerId": "gopro123",
       "customerRating": 4.9,
       "numReviews": 2800,
-      "thumbnailImage": "https://example.com/images/gopro-hero9-black.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/14ee4d2c1af7563e4fc856f91c6fa5a902401531_1601103882.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/gopro-hero9-black-large.jpg",
       "categoryPath": "Electronics > Cameras",
+      "categoryName": "Accessories",
       "brandName": "GoPro",
       "dimensions": {
         "width": "2.8 inches",
@@ -1553,7 +1603,7 @@
       }
     },
     {
-      "itemId": 13,
+      "itemId": 53,
       "name": "Apple Magic Keyboard for iPad Pro 12.9-inch",
       "upc": "190199529518",
       "shortDescription": "Wireless keyboard with trackpad designed for iPad Pro 12.9-inch.",
@@ -1566,9 +1616,10 @@
       "sellerId": "applestore123",
       "customerRating": 4.7,
       "numReviews": 1900,
-      "thumbnailImage": "https://example.com/images/apple-magic-keyboard-ipad-pro.jpg",
+      "thumbnailImage": "https://image.torob.com/base/images/3W/Kq/3WKqfpBudr-vCFN7.png",
       "largeImage": "https://example.com/images/apple-magic-keyboard-ipad-pro-large.jpg",
       "categoryPath": "Electronics > Tablet Accessories",
+      "categoryName": "Accessories",
       "brandName": "Apple",
       "dimensions": {
         "width": "11.5 inches",
@@ -1582,7 +1633,7 @@
       }
     },
     {
-      "itemId": 14,
+      "itemId": 54,
       "name": "Sony PlayStation 5 DualSense Wireless Controller",
       "upc": "711719541305",
       "shortDescription": "Wireless gaming controller with haptic feedback and adaptive triggers.",
@@ -1595,7 +1646,7 @@
       "sellerId": "sony123",
       "customerRating": 4.8,
       "numReviews": 3200,
-      "thumbnailImage": "https://example.com/images/sony-ps5-dualsense-controller.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/4389ceb276e2a884232906d738b2d29be184ddb1_1638347322.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/sony-ps5-dualsense-controller-large.jpg",
       "categoryPath": "Electronics > Gaming Accessories",
       "brandName": "Sony",
@@ -1611,7 +1662,7 @@
       }
     },
     {
-      "itemId": 15,
+      "itemId": 55,
       "name": "Amazon Echo Show 10 (3rd Gen) Smart Display",
       "upc": "841667183226",
       "shortDescription": "Smart display with motion tracking and built-in Alexa voice assistant.",
@@ -1624,9 +1675,10 @@
       "sellerId": "amazon123",
       "customerRating": 4.7,
       "numReviews": 2800,
-      "thumbnailImage": "https://example.com/images/amazon-echo-show-10.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/3805421.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/amazon-echo-show-10-large.jpg",
       "categoryPath": "Electronics > Smart Home",
+      "categoryName": "Accessories",
       "brandName": "Amazon",
       "dimensions": {
         "width": "9.9 inches",
@@ -1640,7 +1692,7 @@
       }
     },
     {
-      "itemId": 16,
+      "itemId": 56,
       "name": "Samsung Galaxy Watch 4 Classic",
       "upc": "887276654321",
       "shortDescription": "Stylish smartwatch with advanced health monitoring and LTE connectivity.",
@@ -1653,9 +1705,10 @@
       "sellerId": "samsung123",
       "customerRating": 4.8,
       "numReviews": 3200,
-      "thumbnailImage": "https://example.com/images/samsung-galaxy-watch-4-classic.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/56038587913e443dbd17cc39033d8097a85d567a_1656936550.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/samsung-galaxy-watch-4-classic-large.jpg",
       "categoryPath": "Electronics > Wearable Technology",
+      "categoryName": "Accessories",
       "brandName": "Samsung",
       "dimensions": {
         "width": "1.8 inches",
@@ -1669,7 +1722,7 @@
       }
     },
     {
-      "itemId": 17,
+      "itemId": 57,
       "name": "Bose SoundLink Color Bluetooth Speaker II",
       "upc": "017817746113",
       "shortDescription": "Portable Bluetooth speaker with bold sound and water-resistant design.",
@@ -1682,9 +1735,10 @@
       "sellerId": "bose123",
       "customerRating": 4.6,
       "numReviews": 1800,
-      "thumbnailImage": "https://example.com/images/bose-soundlink-color.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/3570559.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/bose-soundlink-color-large.jpg",
       "categoryPath": "Electronics > Audio Accessories",
+      "categoryName": "Accessories",
       "brandName": "Bose",
       "dimensions": {
         "width": "5.2 inches",
@@ -1698,7 +1752,7 @@
       }
     },
     {
-      "itemId": 18,
+      "itemId": 58,
       "name": "Logitech G Pro X Superlight Wireless Gaming Mouse",
       "upc": "097855157018",
       "shortDescription": "Ultra-lightweight gaming mouse with HERO sensor and customizable buttons.",
@@ -1711,9 +1765,10 @@
       "sellerId": "logitech123",
       "customerRating": 4.9,
       "numReviews": 2800,
-      "thumbnailImage": "https://example.com/images/logitech-g-pro-x-superlight.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/77d3a6a5f4444b95afa5fab254d8a6118a7a9c63_1661245420.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/logitech-g-pro-x-superlight-large.jpg",
       "categoryPath": "Electronics > Computer Accessories",
+      "categoryName": "Accessories",
       "brandName": "Logitech",
       "dimensions": {
         "width": "2.5 inches",
@@ -1727,7 +1782,7 @@
       }
     },
     {
-      "itemId": 19,
+      "itemId": 59,
       "name": "Sony WH-CH710N Wireless Noise-Canceling Headphones",
       "upc": "027242918354",
       "shortDescription": "Wireless headphones with active noise cancellation and long battery life.",
@@ -1740,9 +1795,10 @@
       "sellerId": "sony123",
       "customerRating": 4.7,
       "numReviews": 2200,
-      "thumbnailImage": "https://example.com/images/sony-wh-ch710n.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/d9d257e3f51238d2ebd7da1ddd40db5e9aa0c607_1652260118.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/sony-wh-ch710n-large.jpg",
       "categoryPath": "Electronics > Audio Accessories",
+      "categoryName": "Accessories",
       "brandName": "Sony",
       "dimensions": {
         "width": "7.8 inches",
@@ -1756,7 +1812,7 @@
       }
     },
     {
-      "itemId": 20,
+      "itemId": 60,
       "name": "Anker Soundcore Liberty Air 2 Pro True Wireless Earbuds",
       "upc": "848061069647",
       "shortDescription": "True wireless earbuds with active noise cancellation and customizable EQ.",
@@ -1769,9 +1825,10 @@
       "sellerId": "ankerdirect123",
       "customerRating": 4.8,
       "numReviews": 1800,
-      "thumbnailImage": "https://example.com/images/anker-soundcore-liberty-air-2-pro.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/4bffc45421a51b4582aadc5e6cdbf48e9f169566_1692433758.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/anker-soundcore-liberty-air-2-pro-large.jpg",
       "categoryPath": "Electronics > Audio Accessories",
+      "categoryName": "Accessories",
       "brandName": "Anker",
       "dimensions": {
         "width": "2.4 inches",
@@ -1783,11 +1840,10 @@
         "startDate": "2024-06-01",
         "endDate": "2024-06-15"
       }
-    }
-  ],
-  "cameras": [
+    },
+
     {
-      "itemId": 101,
+      "itemId": 61,
       "name": "Canon EOS Rebel T7 DSLR Camera",
       "upc": "013803320406",
       "shortDescription": "Entry-level DSLR camera with 24.1MP CMOS sensor and 1080p video recording.",
@@ -1800,9 +1856,10 @@
       "sellerId": "canon123",
       "customerRating": 4.6,
       "numReviews": 1800,
-      "thumbnailImage": "https://example.com/images/canon-eos-rebel-t7.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/feb0257c181aadd3199837c0e5c3ce5d6b5bc261_1611575575.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/canon-eos-rebel-t7-large.jpg",
       "categoryPath": "Electronics > Cameras > DSLR Cameras",
+      "categoryName": "Camera",
       "brandName": "Canon",
       "dimensions": {
         "width": "5.08 inches",
@@ -1816,7 +1873,7 @@
       }
     },
     {
-      "itemId": 102,
+      "itemId": 62,
       "name": "Nikon D5600 DSLR Camera",
       "upc": "018208015877",
       "shortDescription": "Advanced DSLR camera with 24.2MP sensor and 1080p touchscreen display.",
@@ -1829,9 +1886,10 @@
       "sellerId": "nikon123",
       "customerRating": 4.8,
       "numReviews": 2200,
-      "thumbnailImage": "https://example.com/images/nikon-d5600.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/1539545.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/nikon-d5600-large.jpg",
       "categoryPath": "Electronics > Cameras > DSLR Cameras",
+      "categoryName": "Camera",
       "brandName": "Nikon",
       "dimensions": {
         "width": "4.88 inches",
@@ -1845,7 +1903,7 @@
       }
     },
     {
-      "itemId": 103,
+      "itemId": 63,
       "name": "Sony Alpha a6000 Mirrorless Camera",
       "upc": "027242885668",
       "shortDescription": "Compact mirrorless camera with 24.3MP sensor and fast autofocus.",
@@ -1858,9 +1916,10 @@
       "sellerId": "sony123",
       "customerRating": 4.7,
       "numReviews": 1900,
-      "thumbnailImage": "https://example.com/images/sony-alpha-a6000.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/16540.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/sony-alpha-a6000-large.jpg",
       "categoryPath": "Electronics > Cameras > Mirrorless Cameras",
+      "categoryName": "Camera",
       "brandName": "Sony",
       "dimensions": {
         "width": "4.72 inches",
@@ -1874,7 +1933,7 @@
       }
     },
     {
-      "itemId": 104,
+      "itemId": 64,
       "name": "Fujifilm X-T4 Mirrorless Camera",
       "upc": "074101033810",
       "shortDescription": "Professional mirrorless camera with 26.1MP sensor and 4K video recording.",
@@ -1887,9 +1946,10 @@
       "sellerId": "fujifilm123",
       "customerRating": 4.9,
       "numReviews": 2500,
-      "thumbnailImage": "https://example.com/images/fujifilm-x-t4.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/53ebd7a7bd360f0aef010d9301e220d4647b2ad7_1607863073.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/fujifilm-x-t4-large.jpg",
       "categoryPath": "Electronics > Cameras > Mirrorless Cameras",
+      "categoryName": "Camera",
       "brandName": "Fujifilm",
       "dimensions": {
         "width": "5.31 inches",
@@ -1903,7 +1963,7 @@
       }
     },
     {
-      "itemId": 105,
+      "itemId": 65,
       "name": "Canon EOS 90D DSLR Camera",
       "upc": "013803316636",
       "shortDescription": "High-performance DSLR camera with 32.5MP sensor and 4K video recording.",
@@ -1916,9 +1976,10 @@
       "sellerId": "canon123",
       "customerRating": 4.7,
       "numReviews": 2100,
-      "thumbnailImage": "https://example.com/images/canon-eos-90d.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/114000898.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/canon-eos-90d-large.jpg",
       "categoryPath": "Electronics > Cameras > DSLR Cameras",
+      "categoryName": "Camera",
       "brandName": "Canon",
       "dimensions": {
         "width": "5.47 inches",
@@ -1932,7 +1993,7 @@
       }
     },
     {
-      "itemId": 106,
+      "itemId": 66,
       "name": "Sony Cyber-shot DSC-RX100 VII",
       "upc": "027242961649",
       "shortDescription": "Compact digital camera with 20.1MP sensor and 4K video recording.",
@@ -1945,9 +2006,10 @@
       "sellerId": "sony123",
       "customerRating": 4.8,
       "numReviews": 2200,
-      "thumbnailImage": "https://example.com/images/sony-cybershot-rx100-vii.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/41035.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/sony-cybershot-rx100-vii-large.jpg",
       "categoryPath": "Electronics > Cameras > Compact Cameras",
+      "categoryName": "Camera",
       "brandName": "Sony",
       "dimensions": {
         "width": "4.00 inches",
@@ -1961,7 +2023,7 @@
       }
     },
     {
-      "itemId": 107,
+      "itemId": 67,
       "name": "GoPro HERO9 Black Action Camera",
       "upc": "818279024214",
       "shortDescription": "High-performance action camera with 20MP sensor and 5K video recording.",
@@ -1974,9 +2036,10 @@
       "sellerId": "gopro123",
       "customerRating": 4.7,
       "numReviews": 1900,
-      "thumbnailImage": "https://example.com/images/gopro-hero9-black.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/14ee4d2c1af7563e4fc856f91c6fa5a902401531_1601103882.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/gopro-hero9-black-large.jpg",
       "categoryPath": "Electronics > Cameras > Action Cameras",
+      "categoryName": "Camera",
       "brandName": "GoPro",
       "dimensions": {
         "width": "2.70 inches",
@@ -1990,7 +2053,7 @@
       }
     },
     {
-      "itemId": 108,
+      "itemId": 68,
       "name": "DJI Mavic Air 2 Drone",
       "upc": "190021020113",
       "shortDescription": "Compact drone with 48MP camera and 4K/60fps video recording.",
@@ -2003,9 +2066,10 @@
       "sellerId": "dji123",
       "customerRating": 4.9,
       "numReviews": 2500,
-      "thumbnailImage": "https://example.com/images/dji-mavic-air-2.jpg",
+      "thumbnailImage": "https://www.digikala.com/mag/wp-content/uploads/2020/04/Mavic-Air-2-1.jpg",
       "largeImage": "https://example.com/images/dji-mavic-air-2-large.jpg",
       "categoryPath": "Electronics > Cameras > Drones",
+      "categoryName": "Camera",
       "brandName": "DJI",
       "dimensions": {
         "width": "7.10 inches",
@@ -2019,7 +2083,7 @@
       }
     },
     {
-      "itemId": 109,
+      "itemId": 69,
       "name": "Sony Alpha a7 III Mirrorless Camera",
       "upc": "027242912730",
       "shortDescription": "Full-frame mirrorless camera with 24.2MP sensor and 4K video recording.",
@@ -2032,9 +2096,10 @@
       "sellerId": "sony123",
       "customerRating": 4.8,
       "numReviews": 1800,
-      "thumbnailImage": "https://example.com/images/sony-alpha-a7-iii.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/120175170.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/sony-alpha-a7-iii-large.jpg",
       "categoryPath": "Electronics > Cameras > Mirrorless Cameras",
+      "categoryName": "Camera",
       "brandName": "Sony",
       "dimensions": {
         "width": "5.00 inches",
@@ -2048,7 +2113,7 @@
       }
     },
     {
-      "itemId": 110,
+      "itemId": 70,
       "name": "DJI Mavic Air 2 Drone",
       "upc": "190021017048",
       "shortDescription": "Foldable drone with 4K camera and intelligent shooting modes.",
@@ -2061,9 +2126,10 @@
       "sellerId": "dji123",
       "customerRating": 4.9,
       "numReviews": 2200,
-      "thumbnailImage": "https://example.com/images/dji-mavic-air-2.jpg",
+      "thumbnailImage": "https://djiland.com/wp-content/uploads/2020/04/dji.Mavic-Air-2.jpg",
       "largeImage": "https://example.com/images/dji-mavic-air-2-large.jpg",
       "categoryPath": "Electronics > Drones",
+      "categoryName": "Camera",
       "brandName": "DJI",
       "dimensions": {
         "width": "7.10 inches",
@@ -2075,11 +2141,10 @@
         "startDate": "2024-06-01",
         "endDate": "2024-06-15"
       }
-    }
-  ],
-  "smartwatches": [
+    },
+
     {
-      "itemId": 111,
+      "itemId": 71,
       "name": "Apple Watch Series 6",
       "upc": "190198830996",
       "shortDescription": "Advanced smartwatch with blood oxygen sensor and always-on Retina display.",
@@ -2092,9 +2157,10 @@
       "sellerId": "apple123",
       "customerRating": 4.8,
       "numReviews": 3500,
-      "thumbnailImage": "https://example.com/images/apple-watch-series-6.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/cd6a59e7a7d277e2de97d93aec0c950fc773e659_1600689705.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/apple-watch-series-6-large.jpg",
       "categoryPath": "Electronics > Wearable Technology > Smartwatches",
+      "categoryName": "Smart Watch",
       "brandName": "Apple",
       "dimensions": {
         "width": "1.57 inches",
@@ -2108,7 +2174,7 @@
       }
     },
     {
-      "itemId": 112,
+      "itemId": 72,
       "name": "Samsung Galaxy Watch Active 2",
       "upc": "887276417612",
       "shortDescription": "Sleek smartwatch with fitness tracking and heart rate monitoring.",
@@ -2121,9 +2187,10 @@
       "sellerId": "samsung123",
       "customerRating": 4.6,
       "numReviews": 2800,
-      "thumbnailImage": "https://example.com/images/samsung-galaxy-watch-active-2.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/113230678.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/samsung-galaxy-watch-active-2-large.jpg",
       "categoryPath": "Electronics > Wearable Technology > Smartwatches",
+      "categoryName": "Smart Watch",
       "brandName": "Samsung",
       "dimensions": {
         "width": "1.57 inches",
@@ -2137,7 +2204,7 @@
       }
     },
     {
-      "itemId": 113,
+      "itemId": 73,
       "name": "Fitbit Versa 3",
       "upc": "811138039829",
       "shortDescription": "Versatile smartwatch with built-in GPS and health tracking features.",
@@ -2150,9 +2217,10 @@
       "sellerId": "fitbit123",
       "customerRating": 4.7,
       "numReviews": 2000,
-      "thumbnailImage": "https://example.com/images/fitbit-versa-3.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/f8dd73989d581a1331d8db72d07b4b4dc5ad625e_1650123987.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/fitbit-versa-3-large.jpg",
       "categoryPath": "Electronics > Wearable Technology > Smartwatches",
+      "categoryName": "Smart Watch",
       "brandName": "Fitbit",
       "dimensions": {
         "width": "1.59 inches",
@@ -2166,7 +2234,7 @@
       }
     },
     {
-      "itemId": 114,
+      "itemId": 74,
       "name": "Garmin Forerunner 945",
       "upc": "753759207083",
       "shortDescription": "Advanced GPS running watch with performance monitoring and training features.",
@@ -2179,9 +2247,10 @@
       "sellerId": "garmin123",
       "customerRating": 4.9,
       "numReviews": 1500,
-      "thumbnailImage": "https://example.com/images/garmin-forerunner-945.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/113667123.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/garmin-forerunner-945-large.jpg",
       "categoryPath": "Electronics > Wearable Technology > Smartwatches",
+      "categoryName": "Smart Watch",
       "brandName": "Garmin",
       "dimensions": {
         "width": "1.78 inches",
@@ -2195,7 +2264,7 @@
       }
     },
     {
-      "itemId": 115,
+      "itemId": 75,
       "name": "Huawei Watch GT 2 Pro",
       "upc": "886598039829",
       "shortDescription": "Premium smartwatch with titanium body and long-lasting battery life.",
@@ -2208,9 +2277,10 @@
       "sellerId": "huawei123",
       "customerRating": 4.7,
       "numReviews": 1200,
-      "thumbnailImage": "https://example.com/images/huawei-watch-gt-2-pro.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/da521b72c51460e0bf52bbc56ff9507bc3a677d7_1657105200.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/huawei-watch-gt-2-pro-large.jpg",
       "categoryPath": "Electronics > Wearable Technology > Smartwatches",
+      "categoryName": "Smart Watch",
       "brandName": "Huawei",
       "dimensions": {
         "width": "1.81 inches",
@@ -2224,7 +2294,7 @@
       }
     },
     {
-      "itemId": 116,
+      "itemId": 76,
       "name": "Fossil Gen 5 Carlyle Stainless Steel Smartwatch",
       "upc": "796483422107",
       "shortDescription": "Stylish smartwatch with Wear OS by Google and heart rate tracking.",
@@ -2237,9 +2307,10 @@
       "sellerId": "fossil123",
       "customerRating": 4.6,
       "numReviews": 1800,
-      "thumbnailImage": "https://example.com/images/fossil-gen-5-carlyle.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/38c261a5fd886e7250571ce1c707aa36beb8d497_1633967171.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/fossil-gen-5-carlyle-large.jpg",
       "categoryPath": "Electronics > Wearable Technology > Smartwatches",
+      "categoryName": "Smart Watch",
       "brandName": "Fossil",
       "dimensions": {
         "width": "1.73 inches",
@@ -2253,7 +2324,7 @@
       }
     },
     {
-      "itemId": 117,
+      "itemId": 77,
       "name": "Apple Watch Series 6",
       "upc": "190199773280",
       "shortDescription": "Advanced smartwatch with blood oxygen monitoring and always-on Retina display.",
@@ -2266,9 +2337,10 @@
       "sellerId": "apple123",
       "customerRating": 4.8,
       "numReviews": 3500,
-      "thumbnailImage": "https://example.com/images/apple-watch-series-6.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/cd6a59e7a7d277e2de97d93aec0c950fc773e659_1600689705.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90g",
       "largeImage": "https://example.com/images/apple-watch-series-6-large.jpg",
       "categoryPath": "Electronics > Wearable Technology > Smartwatches",
+      "categoryName": "Smart Watch",
       "brandName": "Apple",
       "dimensions": {
         "width": "1.73 inches",
@@ -2282,7 +2354,7 @@
       }
     },
     {
-      "itemId": 118,
+      "itemId": 78,
       "name": "Samsung Galaxy Watch Active 2",
       "upc": "887276362807",
       "shortDescription": "Sleek smartwatch with fitness and health tracking features.",
@@ -2295,9 +2367,10 @@
       "sellerId": "samsung123",
       "customerRating": 4.6,
       "numReviews": 2500,
-      "thumbnailImage": "https://example.com/images/samsung-galaxy-watch-active-2.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/66b2f01f5a2423c1429901334e2e090764821971_1631516661.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/samsung-galaxy-watch-active-2-large.jpg",
       "categoryPath": "Electronics > Wearable Technology > Smartwatches",
+      "categoryName": "Smart Watch",
       "brandName": "Samsung",
       "dimensions": {
         "width": "1.73 inches",
@@ -2311,7 +2384,7 @@
       }
     },
     {
-      "itemId": 119,
+      "itemId": 79,
       "name": "Fitbit Versa 3",
       "upc": "811138037587",
       "shortDescription": "Fitness smartwatch with built-in GPS and Active Zone Minutes.",
@@ -2324,9 +2397,10 @@
       "sellerId": "fitbit123",
       "customerRating": 4.7,
       "numReviews": 1800,
-      "thumbnailImage": "https://example.com/images/fitbit-versa-3.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/3f7962b3d3500b95bf9f4609858539301aeba91c_1650123992.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/fitbit-versa-3-large.jpg",
       "categoryPath": "Electronics > Wearable Technology > Smartwatches",
+      "categoryName": "Smart Watch",
       "brandName": "Fitbit",
       "dimensions": {
         "width": "1.59 inches",
@@ -2340,7 +2414,7 @@
       }
     },
     {
-      "itemId": 120,
+      "itemId": 80,
       "name": "Amazfit GTS 2",
       "upc": "6972504041314",
       "shortDescription": "Sleek and stylish smartwatch with AMOLED display and long battery life.",
@@ -2353,9 +2427,10 @@
       "sellerId": "amazfit123",
       "customerRating": 4.5,
       "numReviews": 1200,
-      "thumbnailImage": "https://example.com/images/amazfit-gts-2.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/b837d8c96361b18b29a724b9b69ceae7aa29d28a_1656318024.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/amazfit-gts-2-large.jpg",
       "categoryPath": "Electronics > Wearable Technology > Smartwatches",
+      "categoryName": "Smart Watch",
       "brandName": "Amazfit",
       "dimensions": {
         "width": "1.65 inches",
@@ -2367,11 +2442,10 @@
         "startDate": null,
         "endDate": null
       }
-    }
-  ],
-  "gaming": [
+    },
+
     {
-      "itemId": 121,
+      "itemId": 81,
       "name": "PlayStation 5 Console",
       "upc": "711719541028",
       "shortDescription": "Next-generation gaming console with 4K graphics and fast SSD storage.",
@@ -2384,9 +2458,10 @@
       "sellerId": "sony123",
       "customerRating": 4.9,
       "numReviews": 5000,
-      "thumbnailImage": "https://example.com/images/playstation-5.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/d1476a05bc84a98521a53fad140efa060a6c1bf9_1605099191.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/playstation-5-large.jpg",
       "categoryPath": "Electronics > Gaming > Gaming Consoles",
+      "categoryName": "Gaming",
       "brandName": "Sony",
       "dimensions": {
         "width": "15.35 inches",
@@ -2400,7 +2475,7 @@
       }
     },
     {
-      "itemId": 122,
+      "itemId": 82,
       "name": "Xbox Series X Console",
       "upc": "889842622614",
       "shortDescription": "Powerful gaming console with 4K visuals and fast load times.",
@@ -2413,9 +2488,10 @@
       "sellerId": "microsoft123",
       "customerRating": 4.8,
       "numReviews": 4500,
-      "thumbnailImage": "https://example.com/images/xbox-series-x.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/2df666aba8e4fd8ae4bd75c814b5ea1e2f076f00_1605103287.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/xbox-series-x-large.jpg",
       "categoryPath": "Electronics > Gaming > Gaming Consoles",
+      "categoryName": "Gaming",
       "brandName": "Microsoft",
       "dimensions": {
         "width": "5.94 inches",
@@ -2429,7 +2505,7 @@
       }
     },
     {
-      "itemId": 123,
+      "itemId": 83,
       "name": "Nintendo Switch Console",
       "upc": "045496882174",
       "shortDescription": "Versatile gaming console for at-home and on-the-go play.",
@@ -2442,9 +2518,10 @@
       "sellerId": "nintendo123",
       "customerRating": 4.7,
       "numReviews": 6000,
-      "thumbnailImage": "https://example.com/images/nintendo-switch.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/91c282112880c6f3fac44bcec262dfe467de4b27_1636977148.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/nintendo-switch-large.jpg",
       "categoryPath": "Electronics > Gaming > Gaming Consoles",
+      "categoryName": "Gaming",
       "brandName": "Nintendo",
       "dimensions": {
         "width": "9.4 inches",
@@ -2458,7 +2535,7 @@
       }
     },
     {
-      "itemId": 124,
+      "itemId": 84,
       "name": "Sony PlayStation 4 Pro Console",
       "upc": "711719521099",
       "shortDescription": "High-performance gaming console with 4K resolution and HDR support.",
@@ -2471,9 +2548,10 @@
       "sellerId": "sony123",
       "customerRating": 4.7,
       "numReviews": 5500,
-      "thumbnailImage": "https://example.com/images/playstation-4-pro.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/4875306.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/playstation-4-pro-large.jpg",
       "categoryPath": "Electronics > Gaming > Gaming Consoles",
+      "categoryName": "Gaming",
       "brandName": "Sony",
       "dimensions": {
         "width": "12.8 inches",
@@ -2487,7 +2565,7 @@
       }
     },
     {
-      "itemId": 125,
+      "itemId": 85,
       "name": "Microsoft Xbox Series X",
       "upc": "889842622074",
       "shortDescription": "Next-generation gaming console with ultra-fast load times and 4K resolution.",
@@ -2500,9 +2578,10 @@
       "sellerId": "microsoft123",
       "customerRating": 4.8,
       "numReviews": 6200,
-      "thumbnailImage": "https://example.com/images/xbox-series-x.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/dcaec10521d8c846742afe4c3b07637d2016c475_1609770030.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/xbox-series-x-large.jpg",
       "categoryPath": "Electronics > Gaming > Gaming Consoles",
+      "categoryName": "Gaming",
       "brandName": "Microsoft",
       "dimensions": {
         "width": "5.94 inches",
@@ -2510,13 +2589,13 @@
         "depth": "5.94 inches"
       },
       "discount": {
-        "percent": 0,
+        "percent": 10,
         "startDate": null,
         "endDate": null
       }
     },
     {
-      "itemId": 126,
+      "itemId": 86,
       "name": "Razer BlackWidow Elite Mechanical Gaming Keyboard",
       "upc": "814855024974",
       "shortDescription": "Premium mechanical keyboard with customizable RGB lighting and programmable keys.",
@@ -2529,9 +2608,10 @@
       "sellerId": "razer123",
       "customerRating": 4.6,
       "numReviews": 3200,
-      "thumbnailImage": "https://example.com/images/razer-blackwidow-elite.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/114896381.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/razer-blackwidow-elite-large.jpg",
       "categoryPath": "Electronics > Gaming > Gaming Accessories",
+      "categoryName": "Gaming",
       "brandName": "Razer",
       "dimensions": {
         "width": "17.64 inches",
@@ -2545,7 +2625,7 @@
       }
     },
     {
-      "itemId": 127,
+      "itemId": 87,
       "name": "Alienware Aurora R11 Gaming Desktop",
       "upc": "884116370132",
       "shortDescription": "High-performance gaming desktop with customizable RGB lighting.",
@@ -2558,9 +2638,10 @@
       "sellerId": "dell123",
       "customerRating": 4.7,
       "numReviews": 3500,
-      "thumbnailImage": "https://example.com/images/alienware-aurora-r11.jpg",
+      "thumbnailImage": "https://image.torob.com/base/images/qK/W9/qKW9MhEhgLKS8xaI.jpg",
       "largeImage": "https://example.com/images/alienware-aurora-r11-large.jpg",
       "categoryPath": "Electronics > Gaming > Gaming Desktops",
+      "categoryName": "Gaming",
       "brandName": "Alienware",
       "dimensions": {
         "width": "17 inches",
@@ -2574,7 +2655,7 @@
       }
     },
     {
-      "itemId": 128,
+      "itemId": 88,
       "name": "SteelSeries Arctis 7 Wireless Gaming Headset",
       "upc": "813682025054",
       "shortDescription": "Wireless gaming headset with DTS Headphone:X v2.0 surround sound.",
@@ -2587,9 +2668,10 @@
       "sellerId": "steelseries123",
       "customerRating": 4.7,
       "numReviews": 3200,
-      "thumbnailImage": "https://example.com/images/steelseries-arctis-7.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/d5c8be3993c453d4338ab146014d500ff2919dcd_1618474449.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/steelseries-arctis-7-large.jpg",
       "categoryPath": "Electronics > Gaming > Gaming Accessories",
+      "categoryName": "Gaming",
       "brandName": "SteelSeries",
       "dimensions": {
         "width": "7.8 inches",
@@ -2603,36 +2685,38 @@
       }
     },
     {
-      "itemId": 129,
-      "name": "SteelSeries Arctis 7 Wireless Gaming Headset",
-      "upc": "813682025054",
-      "shortDescription": "Wireless gaming headset with DTS Headphone:X v2.0 surround sound.",
-      "longDescription": "The SteelSeries Arctis 7 Wireless Gaming Headset delivers immersive audio and comfort for gaming enthusiasts. Featuring DTS Headphone:X v2.0 surround sound, it provides accurate positional cues for competitive gameplay. With a retractable microphone and on-ear controls, you can communicate clearly and adjust settings on the fly. Its lightweight design and long-lasting battery make it ideal for extended gaming sessions.",
-      "price": 149.99,
+      "itemId": 89,
+      "name": "Razer Kishi Mobile Game Controller",
+      "upc": "811659038518",
+      "shortDescription": "Universal mobile gaming controller for iOS and Android devices.",
+      "longDescription": "The Razer Kishi Mobile Game Controller brings console-level control to your mobile gaming. With its flexible design, the Kishi fits most iOS and Android devices, offering a comfortable and precise gaming experience. It features clickable analog thumbsticks, bumper buttons, and a D-pad for versatile gameplay. The controller's pass-through charging allows you to keep your device powered up while playing.",
+      "price": 99.99,
       "currency": "USD",
       "availableOnline": true,
       "availableInStore": true,
-      "seller": "SteelSeries",
-      "sellerId": "steelseries123",
-      "customerRating": 4.7,
-      "numReviews": 3200,
-      "thumbnailImage": "https://example.com/images/steelseries-arctis-7.jpg",
-      "largeImage": "https://example.com/images/steelseries-arctis-7-large.jpg",
+      "seller": "Razer",
+      "sellerId": "razer123",
+      "customerRating": 4.6,
+      "numReviews": 1500,
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/e02d7c312361e854c46bd534b1f868d0d7f50353_1675930642.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "largeImage": "https://example.com/images/razer-kishi-large.jpg",
       "categoryPath": "Electronics > Gaming > Gaming Accessories",
-      "brandName": "SteelSeries",
+      "categoryName": "Gaming",
+      "brandName": "Razer",
       "dimensions": {
-        "width": "7.8 inches",
-        "height": "7.4 inches",
-        "depth": "3.4 inches"
+        "width": "6.4 inches",
+        "height": "3.7 inches",
+        "depth": "1.3 inches"
       },
       "discount": {
-        "percent": 10,
+        "percent": 5,
         "startDate": "2024-06-01",
-        "endDate": "2024-06-15"
+        "endDate": "2024-06-10"
       }
     },
+
     {
-      "itemId": 130,
+      "itemId": 90,
       "name": "SteelSeries QcK Gaming Mouse Pad",
       "upc": "813682023956",
       "shortDescription": "Large gaming mouse pad optimized for precision and control.",
@@ -2645,9 +2729,10 @@
       "sellerId": "steelseries123",
       "customerRating": 4.7,
       "numReviews": 3500,
-      "thumbnailImage": "https://example.com/images/steelseries-qck.jpg",
+      "thumbnailImage": "https://dkstatics-public.digikala.com/digikala-products/171636.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "largeImage": "https://example.com/images/steelseries-qck-large.jpg",
       "categoryPath": "Electronics > Gaming > Gaming Accessories",
+      "categoryName": "Gaming",
       "brandName": "SteelSeries",
       "dimensions": {
         "width": "17.72 inches",
